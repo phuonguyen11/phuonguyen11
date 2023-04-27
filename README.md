@@ -1,12 +1,13 @@
-### 👋 Hello world! I'm Phuong Uyen, a passionate Web Developer who loves crafting innovative solutions with code.
+### 👋 Hello, fellow developers! I'm Uyen, a passionate software engineer student eager to make a meaningful impact in the tech industry.
 
+💻Currently pursuing my degree in Computer Science, I have a strong foundation in programming principles and a thirst for practical experience. As an aspiring software engineer, I'm excited to embark on an internship journey where I can apply my theoretical knowledge to real-world projects.
 
-💻 As a lifelong learner and avid problem-solver, I constantly strive to push the boundaries of what's possible in the digital realm. From developing cutting-edge applications to architecting robust systems, I'm driven by a relentless curiosity and a deep appreciation for elegant, efficient code.
+🚀 Throughout my academic journey, I've gained proficiency in Python/JavaScript/C++, allowing me to tackle diverse programming challenges. From building responsive web applications to optimizing algorithms, I'm continuously sharpening my problem-solving skills and striving for elegant solutions.
 
-🚀 My expertise lies in Web Development, where I've honed my skills through 6-months of hands-on experience. I'm well-versed in Python/JavaScript/C++ and thrive in collaborative environments where I can leverage my skills to create impactful software solutions.
+🌟 Collaboration is at the heart of my approach to software development. I thrive in team environments where I can contribute my ideas, learn from others, and collectively drive innovation. I believe in the power of diverse perspectives and appreciate the value of constructive feedback in refining my craft.
 
-🌟 Beyond just writing code, I believe in the power of teamwork and collaboration. I thrive in diverse, cross-functional teams where ideas are exchanged, and collective brilliance drives success. I'm always excited to work with talented individuals who share a passion for innovation and making a positive impact on the world.
+🌱 As a lifelong learner, I'm constantly exploring new technologies and staying updated with the latest industry trends. I enjoy attending tech conferences, participating in hackathons. These experiences fuel my drive to push boundaries and grow both professionally and personally.
 
-📫 Want to collaborate or chat about exciting projects? Feel free to reach out to me through https://www.linkedin.com/in/uyen-banh-ngoc-phuong-40286324a/ – I'm always eager to connect with like-minded professionals, so don't hesitate to drop me a line!
+📫 I'm open to exciting internship opportunities and projects where I can contribute and learn from experienced mentors. If you're interested in collaborating or discussing potential projects, feel free to reach out to me through https://www.linkedin.com/in/uyen-banh-ngoc-phuong/. I'm always eager to connect with industry professionals and fellow enthusiasts!
 
-🔗 Let's connect and embark on a journey of innovation together. Together, we can turn ideas into reality, one line of code at a time!
+🔗 Let's connect and explore the vast world of software engineering together. I'm thrilled to contribute my enthusiasm, skills, and dedication as an intern, pushing the boundaries of innovation one line of code at a time!
